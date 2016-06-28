@@ -14,3 +14,27 @@ body {
     color: white;
     font-size: 100px;
 }
+
+h1, h2, h3, p{
+  text-align: center;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: white;
+}
+
+h2 {
+  font-size: 1.3em;
+  margin-top: 10px;
+  color: aquamarine;
+}
+
+p {
+  font-size: 2em;
+  font-family: monospace;
+  margin: 0;
+  font-weight: bold;
+}
